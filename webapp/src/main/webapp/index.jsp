@@ -1,1 +1,1 @@
-Hello, World version 4-automatic!
+Hello, World version 5-automatic!
