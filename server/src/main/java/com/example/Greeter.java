@@ -16,11 +16,12 @@ public class Greeter {
    * This may involve a lengthy legal process.
    * @param someone This Student's new name.
    *                Should include both first
-   *                and last name.*/
+   *                and last name.
+   * @return greeting
+   * */
 
   public final String greet(final String someone) {
-    /**
-     * @return greeting This returns a greeting.*/
+   
     return String.format("Hello, %s!", someone);
   }
 }
