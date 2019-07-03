@@ -11,8 +11,7 @@ public class Greeter {
   public Greeter() {
 
   }
-/** 
- * @return greeting
+/** @return greeting
 */
  /**
    * Changes the name of this Student.
